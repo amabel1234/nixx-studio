@@ -1,0 +1,1 @@
+- [Orval and Zod compatibility](orval-zod.md) — generated schemas require a Zod 4-compatible workspace dependency.
